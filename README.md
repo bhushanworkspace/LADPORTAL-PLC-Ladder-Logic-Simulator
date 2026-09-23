@@ -40,7 +40,15 @@ This project can be used for:
 | --- | --- |
 | `README.md` | Project overview |
 | `docs/LADPORTAL_Project_Report.pdf` | Project report |
-| `release/LADPORTAL-Portable-1.0.0.exe` | Portable Windows executable |
+| `docs/README.md` | Documentation notes |
+| `release/README.md` | Release upload notes |
+| `release/LADPORTAL-Portable-1.0.0.exe.placeholder.txt` | Placeholder for the portable executable release asset |
+
+## Executable Download
+
+The portable Windows executable is version `1.0.0` and should be uploaded as a GitHub Release asset named `LADPORTAL-Portable-1.0.0.exe`.
+
+The executable file is large, so it is best distributed through GitHub Releases rather than ordinary documentation commits.
 
 ## Important Note
 
