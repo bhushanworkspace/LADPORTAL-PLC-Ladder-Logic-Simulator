@@ -1,0 +1,15 @@
+The portable Windows executable for LADPORTAL v1.0.0 should be uploaded as a GitHub Release asset with this filename:
+
+LADPORTAL-Portable-1.0.0.exe
+
+Recommended GitHub path:
+
+1. Open the repository on GitHub.
+2. Open Releases.
+3. Draft a new release.
+4. Tag: v1.0.0
+5. Title: LADPORTAL Portable 1.0.0
+6. Upload the executable as a release asset.
+7. Publish the release.
+
+The executable is intentionally not stored through this placeholder file.
